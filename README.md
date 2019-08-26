@@ -2,5 +2,5 @@
 Re-sampling of a 2D Image
 
 Dimensions for the images
-Downscale : 200 150
-UPscale : 400 450
+Downscale : 200 150  
+Upscale : 400 450
